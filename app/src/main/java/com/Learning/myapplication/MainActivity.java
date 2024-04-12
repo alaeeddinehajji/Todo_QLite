@@ -23,6 +23,7 @@ public class MainActivity extends AppCompatActivity {
         // a comment for the second commit
         // commit 4 now kljkj
         /// fucked
+        // fucked65u
         com.Learning.myapplication.databinding.ActivityMainBinding binding = ActivityMainBinding.inflate(getLayoutInflater());
         setContentView(binding.getRoot());
 
